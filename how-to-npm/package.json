@@ -1,0 +1,13 @@
+{
+  "name": "@gekkie/how-to-npm",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "github.com/fruitl00p/this-is-not-the-code-your-looking-for",
+  "author": "",
+  "license": "ISC",
+  "description": "This is not the code your looking for!",
+  "dependencies": {}
+}
